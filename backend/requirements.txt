@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+yfinance
+ta
+requests
+beautifulsoup4
+plotly
+gnews
+langchain-core
+langchain-groq
+python-dotenv
+pandas
+scikit-learn
+matplotlib
+mplchart
+kaleido
